@@ -1,7 +1,7 @@
 # Windows-basic-commands-batchscript
 Ex08-Windows-basic-commands-batchscript
-#### Developed by: JAGADEESH P
-#### Register number: 212223230083
+#### Developed by: VEERARAGAVAN V
+#### Register number: 212223230237
 # AIM:
 To execute Windows basic commands and batch scripting
 
